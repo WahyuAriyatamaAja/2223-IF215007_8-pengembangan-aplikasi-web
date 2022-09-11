@@ -24,18 +24,19 @@ password | string | gantengbanget
 ### Warung
 Atribut|Tipe Data|Contoh
 ---|---|---
-ID | integer | 1
+id warung | integer | 1
 nama warung | string | jajan teros
-User id | integer | 1
+user id | integer | 1
 
 ### Barang
 Atribut|Tipe Data|Contoh
 ---|---|---
-ID | integer | 1
+id barang | integer | 1
 jenis barang | string | Minuman
 nama barang | string | Teh Pucuk
 jumlah barang | integer | 0
 harga barang | integer | 1000
+id warung | integer | 1
 
 ## UX Wireframe
 ![Beranda Belum Login](https://user-images.githubusercontent.com/106895141/189530739-93d78930-0dcd-4b64-ab29-f4d704d8952f.png)
