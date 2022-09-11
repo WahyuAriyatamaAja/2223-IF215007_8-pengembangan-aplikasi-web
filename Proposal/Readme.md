@@ -17,7 +17,7 @@
 ### User
 Atribut|Tipe Data|Contoh
 ---|---|---
-ID | integer | 1
+user id | integer | 1
 username | string | Wahyu
 password | string | gantengbanget
 
@@ -26,6 +26,7 @@ Atribut|Tipe Data|Contoh
 ---|---|---
 ID | integer | 1
 nama warung | string | jajan teros
+User id | integer | 1
 
 ### Barang
 Atribut|Tipe Data|Contoh
